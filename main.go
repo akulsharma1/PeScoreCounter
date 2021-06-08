@@ -25,8 +25,6 @@ var (
 	first_plank_time int = 30 // in seconds
 	first_pushup_count int  = 5 // in count
 	max_plank_time int = 240 // max / final
-	max_pushup_count int = 25
-	final_pushup_count int = 10
 	weeks int = 42
 	//total_plank_time int = 0
 )
